@@ -1,3 +1,8 @@
+<h4 align="center" style="color:red;" >-Önemli Not-</h4>
+<h5 align="center" >.md dosyasında ki .gif uzantılı dosyalar çok fazla alan kapladığı için sadece main içeriğini kullanınınız.</h5>
+
+----
+
 ## İmza Kampanyası Web Sayfa Tasarımı 🎨
 
 Projede kullanılan teknolojiler;
