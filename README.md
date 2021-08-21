@@ -1,8 +1,3 @@
-<h4 align="center" style="color:red;" >-Önemli Not-</h4>
-<h5 align="center" >.md dosyasında ki .gif uzantılı dosyalar çok fazla alan kapladığı için sadece main içeriğini kullanınınız.</h5>
-
-----
-
 ## İmza Kampanyası Web Sayfa Tasarımı 🎨
 
 Projede kullanılan teknolojiler;
@@ -28,11 +23,17 @@ __Not:__ Sayfalar tamamiyle responsive tasarıma sahiptir.
 
 * ### İçerik Sayfası
 <h4 align="center" >Masaüstü</h4>
-<p align="center"><img width="100%" src="/md pic/icerik.gif" alt="Screen Shoooot" style="zoom:33%;" /></p>
+<p align="center"><img width="100%" src="/md pic/icerik.png" alt="Screen Shoooot" style="zoom:33%;" /></p>
+
+----
+
 <h4 align="center" >Orta</h4>
-<p align="center"><img width="70%" src="/md pic/icerik-medium.gif" alt="Screen Shoooot" style="zoom:33%;" /></p>
+<p align="center"><img width="80%" src="/md pic/icerik-medium.png" alt="Screen Shoooot" style="zoom:33%;" /></p>
+
+----
+
 <h4 align="center" >Mobil</h4>
-<p align="center"><img width="50%" src="/md pic/icerik-mobile.gif" alt="Screen Shoooot" style="zoom:33%;" /></p>
+<p align="center"><img width="60%" src="/md pic/icerik-mobile.png" alt="Screen Shoooot" style="zoom:33%;" /></p>
 
 
 * ### Destek Sayfası
